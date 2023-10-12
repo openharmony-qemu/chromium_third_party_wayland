@@ -65,9 +65,9 @@ used to filter file path.
             <filefilter name="defaultPolicyFilter"
                 desc="Filters for compatibility,license header policies">
                 <filteritem type="filepath" name="m4/weston.m4"
-                desc="chrom原生文件无license" />
+                desc="chromium原生文件无license" />
                 <filteritem type="filepath" name="doc/publican/sources/Book_Info.xml"
-                desc="chrom原生文件无license" />
+                desc="chromium原生文件无license" />
             </filefilter>
             <filefilter name="defaultFilter">
                 <filteritem type="filepath" name="README.OpenSource"
@@ -75,11 +75,11 @@ used to filter file path.
             </filefilter>
             <filefilter name="binaryFileTypePolicyFilter">
                 <filteritem type="filepath" name="src/dtddata.S"
-                    desc="Chromium原生二进制文件，不会使用" />
+                    desc="chromium原生二进制文件，不会使用" />
                 <filteritem type="filepath" name="cursor/cursor.pcf"
-                    desc="Chromium原生二进制文件，不会使用" />
+                    desc="chromium原生二进制文件，不会使用" />
                 <filteritem type="filepath" name=".*png"
-                    desc="Chromium原生二进制文件，不会使用" />
+                    desc="chromium原生二进制文件，不会使用" />
             </filefilter>
         </filefilterlist>
     </oatconfig>
