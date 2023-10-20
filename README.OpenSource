@@ -1,10 +1,11 @@
 [
     {
-        "Name": "wayland",                   # 上游开源软件名全称
-        "License":"MIT" ,         # 上游开源软件中包含的许可证信息
-        "License File": "COPYING",     # 许可证所在文件路径
+        "Name": "wayland",
+        "License": "MIT",
+        "License File": "COPYING",
         "Version Number": "e60398b1755bfcdf09f040d3769131fe0d9762fc",
-        "Upstream URL": "https://chromium.googlesource.com/external/anongit.freedesktop.org/git/wayland/wayland.git@e60398b1755bfcdf09f040d3769131fe0d9762fc",   # 上游软件包发布地址
-        "Description": "设计替代X的显示服务器"           # 开源软件功能描述
+        "Owner": "jinchanggang@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/anongit.freedesktop.org/git/wayland/wayland.git@e60398b1755bfcdf09f040d3769131fe0d9762fc",
+        "Description": "设计替代X的显示服务器,一个简单的“显示服务器”（Display Server），与X Window属于同一级的事物，而不是仅仅作为X Window下X Server的替代"
     }
 ]
