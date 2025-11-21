@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "wayland",
+        "License": "MIT",
+        "License File": "COPYING",
+        "Version Number": "a156431ea66fe67d69c9fbba8a8ad34dabbab81c",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/anongit.freedesktop.org/git/wayland/wayland.git@a156431ea66fe67d69c9fbba8a8ad34dabbab81c",
+        "Description": "设计替代X的显示服务器,一个简单的“显示服务器”（Display Server），与X Window属于同一级的事物，而不是仅仅作为X Window下X Server的替代"
+    }
+]
